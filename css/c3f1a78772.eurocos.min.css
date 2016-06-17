@@ -8087,7 +8087,7 @@ button.menu-trigger:hover {
 
 .headline {
     position: relative;
-    background: url(../img/header.jpg) 50% 0 no-repeat
+    background: url(../img/bikelake-bg.jpg) 50% 0 no-repeat
 }
 
 .headline-index {
@@ -9929,7 +9929,7 @@ ul.indexer li:first-child:before {
         margin-left: -15px;
         padding-right: 15px;
         padding-left: 15px;
-        background: url(../img/cityp2-bg.jpg) 50% 0 no-repeat;
+        background: url(../img/bikelake-bg.jpg) 50% 0 no-repeat;
         
     }
     .headline .logo {
