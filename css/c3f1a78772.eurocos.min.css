@@ -1,6 +1,22 @@
 /*!
  * Powered by DeMx (http://demx.info)
  */
+/* user css */
+
+#navi {
+    float: left;
+    margin: -65px -60px 0 0;
+}
+
+#intr {
+    margin-top: 210px;
+}
+
+#soc {
+    margin-top: 10px;
+    float: right;
+}
+/* user css end */
 
 html {
     font-family: sans-serif;
@@ -8087,7 +8103,7 @@ button.menu-trigger:hover {
 
 .headline {
     position: relative;
-    background: url(../img/bikelake-bg.jpg) 50% 0 no-repeat
+    background: url(../img/header-old.jpg) 50% 0 no-repeat
 }
 
 .headline-index {
@@ -9929,7 +9945,7 @@ ul.indexer li:first-child:before {
         margin-left: -15px;
         padding-right: 15px;
         padding-left: 15px;
-        background: url(../img/bikelake-bg.jpg) 50% 0 no-repeat;
+        background: url(../img/header-old.jpg) 50% 0 no-repeat;
         
     }
     .headline .logo {
